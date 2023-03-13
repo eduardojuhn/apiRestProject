@@ -1,2 +1,2 @@
 # apiRestProject
-algaworks project 
+algaworks api rest project 
